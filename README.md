@@ -1,2 +1,6 @@
 # hello-world
-a repository
+a repositoy
+
+Hi joey!
+
+i am a fucking god
